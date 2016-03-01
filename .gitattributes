@@ -1,0 +1,4 @@
+NP-szeged-msd.featureNumbers.gz filter=lfs diff=lfs merge=lfs -text
+NP-szeged-msd.labelNumbers.gz filter=lfs diff=lfs merge=lfs -text
+szeged.tree.MSD.MIGE.full.txtu.train+test.simple.gz filter=lfs diff=lfs merge=lfs -text
+NP-szeged-msd.model_01.npy.z filter=lfs diff=lfs merge=lfs -text
