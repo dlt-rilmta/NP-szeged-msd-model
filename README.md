@@ -6,7 +6,7 @@ Trained on *Szeged Treebank 2.0* NP annotations (MSD PoS-tags, NE tokens joined 
 
 Created for the Huntag3 processing resource in the [GATE Hungarian plugin](https://github.com/dlt-rilmta/hunlp-GATE).
 
-**How to install for GATE Hungarian plugin**
+**How to install for the GATE Hungarian plugin**
 
 You will need to install [git-lfs](https://git-lfs.github.com/) to clone this repository. Then change to `{YOUR_GATE_PLUGINS_FOLDER}/Lang_Hungarian/resources/huntag3/models/` and issue the following command:
 
