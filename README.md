@@ -4,7 +4,7 @@ Binary model files for [Huntag3](https://github.com/ppke-nlpg/HunTag3) for Hunga
 
 Trained on *Szeged Treebank 2.0* NP annotations (MSD PoS-tags, NE tokens joined together with underscore character). Training data and scripts to re-run training are included.
 
-Created for the Huntag3 processing resource in the [GATE Hungarian plugin](https://github.com/dlt-rilmta/hunlp-GATE).
+Created for Huntag3 inside the [GATE Hungarian plugin](https://github.com/dlt-rilmta/hunlp-GATE). The **`"Huntag3 Hungarian NP-chunker [msd] (command-line)"`** processing resource (`hu.nytud.gate.othertaggers.Huntag3NPChunkerCommandLine`) requires this model.
 
 **How to install for the GATE Hungarian plugin**
 
